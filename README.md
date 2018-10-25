@@ -1,6 +1,6 @@
 # LMS（Library management system）
 # 图书管理系统
-Developer：Gao Xiangyu
+**Developer：Gao Xiangyu  
 A Library management system for homework.  
 一个用C语言写成的小型图书管理系统，为程序设计作业而开发。
 
