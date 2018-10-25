@@ -1,4 +1,4 @@
-# LMS（Library management system）
+# LMS（Library Management System）
 # 图书管理系统
 **Developer：Gao Xiangyu**  
 A Library management system for homework.  
