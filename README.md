@@ -21,4 +21,4 @@ A Library management system for homework.
 * 越界处理：①选项的值利用求余数的方式避免用户多次按键使其超出范围，并到达循环选择选项的效果；②各数组、指针都有保障部越界的处理代码；③文件读取失败后也有相应初始化创建和结束程序的处理。
 * 内存管理：由于程序设计许多链表操作动态内存回收十分繁杂，再者动态内存占用并不多，一亿本书籍也不会超过1M内存，故未进行内存回收操作。  
   
-**[（具体详情，请阅读《图书管理系统.pdf》）](https://github.com/CWingGao/LMS/blob/master/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.pdf)**
+**[（具体详情，请阅读《图书管理系统.pdf》）](https://github.com/CWing-Gao/LMS/blob/master/图书管理系统.pdf)**
